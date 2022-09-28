@@ -7,9 +7,9 @@
 :root {
     --color1: #000000;
     --color2: #ffffff;
-    --color3: #d02561;
-    --color4: #04091a;
-    --color5: #707070;
+    --color3: #000000;
+    --color4: #ffffff;
+    --color5: #000000;
 }
 
 body {
@@ -73,7 +73,7 @@ a .btn {
 }
 
 .hero .heroD {
-    background-image: url('img/hero.png');
+    background-image: url('img/dem ange.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -185,6 +185,11 @@ a .btn {
 .roadmap p {
     line-height: 1.5rem;
 }
+
+img {
+    width: 100%;
+    height: auto;
+  }
 
 .roadmap .number {
     position: absolute;

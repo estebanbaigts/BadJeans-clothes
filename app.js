@@ -5,7 +5,7 @@ tl.to('.loading', {
     duration: 0.75
 })
 
-tl.from('.hero', {
+tl.from('.t-shirt', {
     duration: 0.5,
     filter: "blur(5px)"
 })
