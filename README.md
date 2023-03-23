@@ -1,2 +1,3 @@
-# Metalaunch
-fro the beta of the sites of metalaunch
+# BadJeans
+
+A little brand of street and modern clothes.
